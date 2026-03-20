@@ -4,7 +4,7 @@ Glue is a sticky, gooey liquid that stretches well. Creating a glue-like slime i
 ## Materials per bucket (About 7L)
 - 5g of borax
 - 20g of baking soda (sodium Bicarbonate)
-- 18g of fructose
+- 12g of fructose
 - 250g of maltodextrin
 - 500g of pregelatinized potato starch
 - 1.5L of 10% PVA (polyvinyl alcohol) solution
