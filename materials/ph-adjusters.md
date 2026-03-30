@@ -7,3 +7,5 @@ Sodium bicarbonate, commonly known as baking soda, is an alkaline agent that hel
 ## Sodium sesquicarbonate
 Sodium sesquicarbonate also serves to raise the pH level, facilitating a more efficient crosslinking reaction. Since it possesses a higher pH than sodium bicarbonate, it is highly effective at enhancing the preservation and long-term stability of the slime. Using this agent helps maintain the product's quality and extends its shelf-life by ensuring a more robust alkaline environment.
 
+## Citric acid
+Citric acid is an acidic agent that lowers the pH of the slime mixture and weakens the cross-linking reaction. By neutralizing the alkaline environment necessary for borate ions to bond with polymer chains, it converts these ions back into boric acid, causing them to lose their ability to maintain a stable network. Because of this property, citric acid is an essential ingredient for softening slime that has become too hard or dissolving it to make cleanup easier.
