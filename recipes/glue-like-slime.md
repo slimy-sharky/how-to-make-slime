@@ -15,7 +15,7 @@ Glue is a sticky, gooey liquid that stretches well. Creating a glue-like slime i
 4. Add the powder mixture to the bucket while stirring the water.
 5. Gradually add the borax solution to the bucket while mixing.
 
-## How to Clean up
+## How to clean up
 1. Put the slime in a bucket, add 15g of fructose, and stir until the slime dissolves.
 2. Close the bath plug and pour the dissolved liquid into the bathtub.
 3. Add hot water and stir again.
