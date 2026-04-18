@@ -2,10 +2,10 @@
 Glue is a sticky, gooey liquid that stretches well. Creating a glue-like slime is difficult, but it can be achieved by devising ways to weaken the crosslinking reaction of borax.
 
 ## Materials per 5L of slime
-- 4g of borax
-- 20g of fructose
+- 6g of borax
+- 19g of fructose
 - 200g of sodium bicarbonate
-- 400g of pregelatinized potato starch
+- 390g of pregelatinized potato starch
 - 120g of Kuraray Poval 44-88 S2 (PVA powder)
 
 ## How to make
