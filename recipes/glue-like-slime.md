@@ -3,7 +3,7 @@ Glue is a sticky, gooey liquid that stretches well. Creating a glue-like slime i
 
 ## Materials per 5L of slime
 - 6g of borax
-- 19g of fructose
+- 18g of fructose
 - 200g of sodium bicarbonate
 - 390g of pregelatinized potato starch
 - 120g of Kuraray Poval 44-88 S2 (PVA powder)
